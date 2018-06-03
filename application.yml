@@ -1,0 +1,10 @@
+ENVIRONMENT: "dev"
+
+DB_NAME: "todo_dev"
+DB_HOST: "localhost"
+DB_USER: "postgres"
+DB_PASSWORD: ""
+DB_PORT: "5432"
+
+APP_NAME: "todo-app"
+APP_VERSION: "0.0.1"
