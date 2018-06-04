@@ -12,7 +12,7 @@ import (
 	_ "github.com/lib/pq"
 )
 
-var migrationPath = "file://" + os.Getenv("GOPATH") + "/src/github.com/gangwar-2/go-todo-list/migration/queries/"
+var migrationPath = "file://" + os.Getenv("GOPATH") + "/src/github.com/amitansh-gangwar/go-todo-list/migration/queries/"
 
 var runner *migrate.Migrate
 
