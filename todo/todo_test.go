@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gangwar-2/go-todo-list/config"
-	"github.com/gangwar-2/go-todo-list/db"
+	"github.com/amitansh-gangwar/go-todo-list/config"
+	"github.com/amitansh-gangwar/go-todo-list/db"
 	"github.com/stretchr/testify/assert"
 )
 

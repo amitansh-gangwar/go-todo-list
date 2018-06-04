@@ -7,9 +7,9 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/gangwar-2/go-todo-list/db"
-	"github.com/gangwar-2/go-todo-list/handler"
-	"github.com/gangwar-2/go-todo-list/todo"
+	"github.com/amitansh-gangwar/go-todo-list/db"
+	"github.com/amitansh-gangwar/go-todo-list/handler"
+	"github.com/amitansh-gangwar/go-todo-list/todo"
 )
 
 func PrintInstructions() {

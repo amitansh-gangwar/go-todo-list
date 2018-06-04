@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"log"
 
-	"github.com/gangwar-2/go-todo-list/config"
+	"github.com/amitansh-gangwar/go-todo-list/config"
 )
 
 var db *sql.DB

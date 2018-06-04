@@ -3,9 +3,9 @@ package main
 import (
 	"os"
 
-	"github.com/gangwar-2/go-todo-list/app"
-	"github.com/gangwar-2/go-todo-list/config"
-	"github.com/gangwar-2/go-todo-list/migration"
+	"github.com/amitansh-gangwar/go-todo-list/app"
+	"github.com/amitansh-gangwar/go-todo-list/config"
+	"github.com/amitansh-gangwar/go-todo-list/migration"
 	"github.com/urfave/cli"
 )
 
